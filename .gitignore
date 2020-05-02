@@ -1,2 +1,8 @@
+julia_call_c_fortran/.ipynb_checkpoints/JuliaCallFortran-checkpoint.ipynb
+
 # My extension for binary file.
 *.bin
+.vscode/settings.json
+
+# share library
+*.so
